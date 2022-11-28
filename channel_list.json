@@ -1,0 +1,77 @@
+{
+  "data": [
+  
+    {
+      "id" : 0,
+      "discounted_price": 25,
+      "duration": 84,
+      "genre": "Sports"
+      "price": 30,
+      "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
+      "name": "Star Sports"
+    },
+    {
+      "id" : 1,
+      "discounted_price": 60,
+      "duration": 24,
+      "genre": "Sports"
+      "price": 90,
+      "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
+      "name": "Ten Sports"
+    },
+    {
+      "id" : 2,
+      "discounted_price": 25,
+      "duration": 84,
+      "genre": "Entertainment"
+      "price": 30,
+      "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
+      "name": "HBO"
+    },
+    {
+      "id" : 3,
+      "discounted_price": 25,
+      "duration": 84,
+      "genre": "Information"
+      "price": 30,
+      "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
+      "name": "Discovery"
+    },
+    {
+      "id" : 4,
+      "discounted_price": 25,
+      "duration": 84,
+      "genre": "Sports"
+      "price": 30,
+      "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
+      "name": "Star Sports"
+    },
+    {
+      "id" : 5,
+      "discounted_price": 25,
+      "duration": 84,
+      "genre": "Sports"
+      "price": 30,
+      "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
+      "name": "Star Sports"
+    },
+    {
+      "id" : 6,
+      "discounted_price": 25,
+      "duration": 84,
+      "genre": "Sports"
+      "price": 30,
+      "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
+      "name": "Star Sports"
+    },
+    
+    
+  
+  
+  
+  ]
+
+
+
+
+}
