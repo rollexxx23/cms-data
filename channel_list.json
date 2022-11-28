@@ -1,5 +1,4 @@
-{
-  "data": [
+[
   
     {
       "id" : 0,
@@ -64,14 +63,8 @@
       "img_src": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png",
       "name": "Star Sports"
     },
-    
-    
-  
-  
-  
-  ]
+]
 
 
 
 
-}
